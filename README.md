@@ -25,10 +25,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/vanshikaburisetty/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0643-maximum-average-subarray-i](https://github.com/vanshikaburisetty/leetcode/tree/master/0643-maximum-average-subarray-i) |
 ## Array
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/vanshikaburisetty/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0643-maximum-average-subarray-i](https://github.com/vanshikaburisetty/leetcode/tree/master/0643-maximum-average-subarray-i) |
 ## Binary Search
 |  |
 | ------- |
