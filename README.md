@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/vanshikaburisetty/leetcode/tree/master/0002-add-two-numbers) |
+| [0070-climbing-stairs](https://github.com/vanshikaburisetty/leetcode/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/vanshikaburisetty/leetcode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/vanshikaburisetty/leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/vanshikaburisetty/leetcode/tree/master/0342-power-of-four) |
@@ -57,10 +58,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/vanshikaburisetty/leetcode/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/vanshikaburisetty/leetcode/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/vanshikaburisetty/leetcode/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/vanshikaburisetty/leetcode/tree/master/1013-fibonacci-number) |
 ## Bit Manipulation
 |  |
