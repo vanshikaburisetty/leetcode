@@ -9,10 +9,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/vanshikaburisetty/leetcode/tree/master/0002-add-two-numbers) |
+| [1013-fibonacci-number](https://github.com/vanshikaburisetty/leetcode/tree/master/1013-fibonacci-number) |
 ## Recursion
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/vanshikaburisetty/leetcode/tree/master/0002-add-two-numbers) |
+| [1013-fibonacci-number](https://github.com/vanshikaburisetty/leetcode/tree/master/1013-fibonacci-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -46,4 +48,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/vanshikaburisetty/leetcode/tree/master/0209-minimum-size-subarray-sum) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/vanshikaburisetty/leetcode/tree/master/1013-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/vanshikaburisetty/leetcode/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
