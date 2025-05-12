@@ -10,12 +10,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/vanshikaburisetty/leetcode/tree/master/0002-add-two-numbers) |
 | [0326-power-of-three](https://github.com/vanshikaburisetty/leetcode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/vanshikaburisetty/leetcode/tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/vanshikaburisetty/leetcode/tree/master/1013-fibonacci-number) |
 ## Recursion
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/vanshikaburisetty/leetcode/tree/master/0002-add-two-numbers) |
 | [0326-power-of-three](https://github.com/vanshikaburisetty/leetcode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/vanshikaburisetty/leetcode/tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/vanshikaburisetty/leetcode/tree/master/1013-fibonacci-number) |
 ## Hash Table
 |  |
@@ -58,4 +60,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/vanshikaburisetty/leetcode/tree/master/1013-fibonacci-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0342-power-of-four](https://github.com/vanshikaburisetty/leetcode/tree/master/0342-power-of-four) |
 <!---LeetCode Topics End-->
