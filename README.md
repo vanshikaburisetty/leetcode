@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0665-non-decreasing-array](https://github.com/vanshikaburisetty/leetcode/tree/master/0665-non-decreasing-array) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/vanshikaburisetty/leetcode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/vanshikaburisetty/leetcode/tree/master/1677-matrix-diagonal-sum) |
+| [2020-remove-one-element-to-make-the-array-strictly-increasing](https://github.com/vanshikaburisetty/leetcode/tree/master/2020-remove-one-element-to-make-the-array-strictly-increasing) |
 ## Binary Search
 |  |
 | ------- |
