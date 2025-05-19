@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/vanshikaburisetty/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/vanshikaburisetty/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0665-non-decreasing-array](https://github.com/vanshikaburisetty/leetcode/tree/master/0665-non-decreasing-array) |
+| [0898-transpose-matrix](https://github.com/vanshikaburisetty/leetcode/tree/master/0898-transpose-matrix) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/vanshikaburisetty/leetcode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/vanshikaburisetty/leetcode/tree/master/1677-matrix-diagonal-sum) |
 | [2020-remove-one-element-to-make-the-array-strictly-increasing](https://github.com/vanshikaburisetty/leetcode/tree/master/2020-remove-one-element-to-make-the-array-strictly-increasing) |
@@ -78,9 +79,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0898-transpose-matrix](https://github.com/vanshikaburisetty/leetcode/tree/master/0898-transpose-matrix) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/vanshikaburisetty/leetcode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 ## Matrix
 |  |
 | ------- |
+| [0898-transpose-matrix](https://github.com/vanshikaburisetty/leetcode/tree/master/0898-transpose-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/vanshikaburisetty/leetcode/tree/master/1677-matrix-diagonal-sum) |
 <!---LeetCode Topics End-->
