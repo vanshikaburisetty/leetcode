@@ -1,16 +1,14 @@
 class Solution {
     public boolean isPerfectSquare(int num) {
-        if(num<2) return true;
-        if(num<101){
-            for (int i=2;i<=(num/2) +1;i++){
-                 if(i*i==num) return true;
-                  }
-              }
-              else if(num>=10){
-                for (int i=2;i<=(num/3) +1;i++){
-                    if(i*i==num) return true;
-        }
+        return binarySearch(num, 1, num);
     }
-        return false;
+
+    private boolean binarySearch(int num, long low, long high) {
+        if (low > high) return false;
+        long mid = low + (high - low) / 2;
+        long square = mid * mid;
+        if (square == num) return true;
+        else if (square < num) return binarySearch(num, mid + 1, high);
+        else return binarySearch(num, low, mid - 1);
     }
 }
