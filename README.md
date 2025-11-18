@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/vanshikaburisetty/leetcode/tree/master/0002-add-two-numbers) |
 | [0070-climbing-stairs](https://github.com/vanshikaburisetty/leetcode/tree/master/0070-climbing-stairs) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/vanshikaburisetty/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0231-power-of-two](https://github.com/vanshikaburisetty/leetcode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/vanshikaburisetty/leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/vanshikaburisetty/leetcode/tree/master/0342-power-of-four) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/vanshikaburisetty/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0054-spiral-matrix](https://github.com/vanshikaburisetty/leetcode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/vanshikaburisetty/leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/vanshikaburisetty/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0209-minimum-size-subarray-sum](https://github.com/vanshikaburisetty/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/vanshikaburisetty/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0566-reshape-the-matrix](https://github.com/vanshikaburisetty/leetcode/tree/master/0566-reshape-the-matrix) |
@@ -122,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/vanshikaburisetty/leetcode/tree/master/0020-valid-parentheses) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/vanshikaburisetty/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0232-implement-queue-using-stacks](https://github.com/vanshikaburisetty/leetcode/tree/master/0232-implement-queue-using-stacks) |
 ## Design
 |  |
